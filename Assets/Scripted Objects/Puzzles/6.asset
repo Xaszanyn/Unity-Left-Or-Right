@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0af5b1e1f8f738f4b9c6bee01127613a, type: 3}
+  m_Name: 6
+  m_EditorClassIdentifier: 
+  name: 6) Parkour
+  level: {fileID: 6415484546637668546, guid: 91e59cfd3c9767c4da01484cd113ebea, type: 3}
+  logs:
+  - position: {x: -1.5, y: 1}
+    length: 10
+    node: 1
+    vertical: 0
+  ball: {x: -2.5, y: 4.5}
+  success: {x: 4.5, y: 6}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0af5b1e1f8f738f4b9c6bee01127613a, type: 3}
+  m_Name: 7
+  m_EditorClassIdentifier: 
+  name: 7) Find
+  level: {fileID: 1236149907049836969, guid: 7b6e3406794fcef41a4d9945595dee90, type: 3}
+  logs:
+  - position: {x: 4, y: 3}
+    length: 11
+    node: 2
+    vertical: 0
+  - position: {x: -4, y: 0}
+    length: 11
+    node: 1
+    vertical: 0
+  - position: {x: 4, y: -3}
+    length: 11
+    node: 2
+    vertical: 0
+  ball: {x: 6, y: 5.5}
+  success: {x: -3, y: 5}
